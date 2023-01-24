@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<ul>
+<li>A simple react toapp with add and remove tasks</li>
+<li>React Router Implimented</li>
+</ul>
 
 ## Available Scripts
 
