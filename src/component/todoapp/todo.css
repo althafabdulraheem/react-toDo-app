@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    background-color: #151818;
+    font-family: sans-serif;
+    color: #3e3a3a;
+   
+}
+.todo-container{
+    position:absolute;
+    right:50%;
+    top:50%;
+    transform: translate(50%,-50%);
+}
+h1{
+    margin: 0px;
+    padding: 15px;
+    letter-spacing: 5px;
+}
+input{
+    padding: 20px;
+    border-style:inset;
+    border-radius: 74px 37px;
+    background: #323232;
+}
+input:focus{
+    border:none;
+    outline:none;
+}
+.remove{
+    cursor:pointer;
+    font-weight:bold;
+}

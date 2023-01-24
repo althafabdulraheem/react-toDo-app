@@ -1,0 +1,18 @@
+header{
+    background-color: black;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a{
+    color: white;
+    font-weight: bold;
+    margin-left:20px;
+    text-decoration: none;
+}
+p{
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+}
